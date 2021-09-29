@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Trepsy
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning intro to computer science cs50
 - 💞️ I’m looking to collaborate on anything concerning the cahllenges of programming 
 - 📫 How to reach me tapsjans@gmail.com
 

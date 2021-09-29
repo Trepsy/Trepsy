@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Trepsy
-- 💞️ I’m looking to collaborate on anything concerning the cahllenges of programming 
+- 💞️ I’m looking to collaborate on anything concerning the challenges of programming 
 - 📫 How to reach me tapsjans@gmail.com
 
 <!---
